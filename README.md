@@ -29,4 +29,6 @@ python3 -m pip install discord.py==0.16.12
 
 ## HOW TO RUN
 
-# python3 intervalbot.py
+``
+ python3 intervalbot.py
+ ``
